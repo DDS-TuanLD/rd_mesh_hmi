@@ -1,0 +1,37 @@
+
+**** Build of configuration 8258_mesh for project firmware ****
+
+make -j4 pre-build main-build 
+"C:\Users\admin\OneDrive\Máy tính\rd_mesh_hmi\firmware/getver.sh"
+ 
+Building file: ../vendor/user_lib/app_lcd_serial.c
+Invoking: TC32 Compiler
+tc32-elf-gcc -ffunction-sections -fdata-sections -I"C:\Users\admin\OneDrive\Máy tính\rd_mesh_hmi\firmware" -I"C:\Users\admin\OneDrive\Máy tính\rd_mesh_hmi\firmware\vendor\common\mi_api\libs" -I"C:\Users\admin\OneDrive\Máy tính\rd_mesh_hmi\firmware\vendor\common\mi_api\mijia_ble_api" -D__PROJECT_MESH__=1 -D__PROJECT_NODE_LCD__=1 -D__telink__ -DCHIP_TYPE=CHIP_TYPE_8258 -Wall -O2 -fpack-struct -fshort-enums -finline-small-functions -std=gnu99 -fshort-wchar -fms-extensions -c -o"vendor/user_lib/app_lcd_serial.o" "../vendor/user_lib/app_lcd_serial.c"
+Finished building: ../vendor/user_lib/app_lcd_serial.c
+ 
+Building target: firmware.elf
+Invoking: TC32 C Linker
+tc32-elf-ld --gc-sections -L"C:\Users\admin\OneDrive\Máy tính\rd_mesh_hmi\firmware\proj_lib" -T ../boot.link -o"firmware.elf"  ./div_mod.o  ./vendor/user_lib/app_lcd_handler.o ./vendor/user_lib/app_lcd_interface.o ./vendor/user_lib/app_lcd_model.o ./vendor/user_lib/app_lcd_serial.o ./vendor/user_lib/user_fifo.o ./vendor/user_lib/user_flash.o ./vendor/user_lib/user_model.o ./vendor/user_lib/user_serial.o  ./vendor/user_app/user_app.o  ./vendor/mesh/app.o ./vendor/mesh/app_att.o ./vendor/mesh/main.o  ./vendor/common/app_beacon.o ./vendor/common/app_health.o ./vendor/common/app_heartbeat.o ./vendor/common/app_provison.o ./vendor/common/app_proxy.o ./vendor/common/battery_check.o ./vendor/common/battery_check_827x.o ./vendor/common/beacon.o ./vendor/common/ble_ll_ota.o ./vendor/common/blt_led.o ./vendor/common/blt_soft_timer.o ./vendor/common/cmd_interface.o ./vendor/common/config_model.o ./vendor/common/dual_mode_adapt.o ./vendor/common/ev.o ./vendor/common/factory_reset.o ./vendor/common/fast_provision_model.o ./vendor/common/flash_fw_check.o ./vendor/common/generic_model.o ./vendor/common/light.o ./vendor/common/lighting_model.o ./vendor/common/lighting_model_HSL.o ./vendor/common/lighting_model_LC.o ./vendor/common/lighting_model_xyl.o ./vendor/common/mesh_common.o ./vendor/common/mesh_fn.o ./vendor/common/mesh_lpn.o ./vendor/common/mesh_node.o ./vendor/common/mesh_property.o ./vendor/common/mesh_test_cmd.o ./vendor/common/myprintf.o ./vendor/common/ota_fw_ow.o ./vendor/common/scene.o ./vendor/common/scheduler.o ./vendor/common/sensors_model.o ./vendor/common/system_time.o ./vendor/common/time_model.o ./vendor/common/user_ali.o ./vendor/common/user_ali_time.o ./vendor/common/user_du.o ./vendor/common/user_proc.o ./vendor/common/vendor_model.o  ./vendor/common/nl_api/nl_common.o ./vendor/common/nl_api/nl_model_level.o ./vendor/common/nl_api/nl_model_schedules.o  ./vendor/common/mi_api/i2c_msc.o ./vendor/common/mi_api/mijia_pub_proc.o ./vendor/common/mi_api/telink_sdk_mible_api.o  ./vendor/common/mi_api/mijia_ble_api/mible_api.o  ./vendor/common/mi_api/mi_vendor/vendor_model_mi.o  ./vendor/common/mi_api/libs/third_party/micro-ecc/uECC.o  ./vendor/common/mi_api/libs/mi_config.o  ./proj/mcu_spec/adc_8263.o ./proj/mcu_spec/adc_8266.o ./proj/mcu_spec/adc_8267.o ./proj/mcu_spec/cstartup_8261.o ./proj/mcu_spec/cstartup_8263.o ./proj/mcu_spec/cstartup_8263_ram.o ./proj/mcu_spec/cstartup_8266.o ./proj/mcu_spec/cstartup_8266_ram.o ./proj/mcu_spec/cstartup_8267.o ./proj/mcu_spec/cstartup_8267_ram.o ./proj/mcu_spec/cstartup_8269.o ./proj/mcu_spec/cstartup_8269_ram.o ./proj/mcu_spec/gpio_8263.o ./proj/mcu_spec/gpio_8266.o ./proj/mcu_spec/gpio_8267.o ./proj/mcu_spec/pwm_8263.o ./proj/mcu_spec/pwm_8266.o ./proj/mcu_spec/pwm_8267.o  ./proj/mcu/putchar.o  ./proj/drivers/rf_pa.o ./proj/drivers/usb.o  ./proj/common/breakpoint.o ./proj/common/compatibility.o ./proj/common/list.o ./proj/common/log.o ./proj/common/mempool.o ./proj/common/mmem.o ./proj/common/printf.o ./proj/common/qsort.o ./proj/common/selection_sort.o ./proj/common/tstring.o ./proj/common/tutility.o  ./proj/app/usbaud.o ./proj/app/usbcdc.o ./proj/app/usbkb.o ./proj/app/usbmouse.o  ./drivers/8258/adc.o ./drivers/8258/aes.o ./drivers/8258/analog.o ./drivers/8258/audio.o ./drivers/8258/bsp.o ./drivers/8258/clock.o ./drivers/8258/emi.o ./drivers/8258/flash.o ./drivers/8258/flash_mesh_extend.o ./drivers/8258/gpio_8258.o ./drivers/8258/i2c.o ./drivers/8258/lpc.o ./drivers/8258/qdec.o ./drivers/8258/random.o ./drivers/8258/s7816.o ./drivers/8258/spi.o ./drivers/8258/timer.o ./drivers/8258/uart.o ./drivers/8258/watchdog.o  ./drivers/8258/flash/flash_mid011460c8.o ./drivers/8258/flash/flash_mid1060c8.o ./drivers/8258/flash/flash_mid11325e.o ./drivers/8258/flash/flash_mid1160c8.o ./drivers/8258/flash/flash_mid13325e.o ./drivers/8258/flash/flash_mid134051.o ./drivers/8258/flash/flash_mid136085.o ./drivers/8258/flash/flash_mid1360c8.o ./drivers/8258/flash/flash_mid1360eb.o ./drivers/8258/flash/flash_mid14325e.o ./drivers/8258/flash/flash_mid1460c8.o  ./boot/8258/cstartup_8258_RET_16K.o   -llt_8258_mesh -ltangseng_ble_mesh_auth_eclipse_telink -lsoft-fp -lsig_mesh_825x
+Finished building target: firmware.elf
+ 
+make --no-print-directory post-build
+"C:\Users\admin\OneDrive\Máy tính\rd_mesh_hmi\firmware/tl_check_fw.sh"   8258_mesh   firmware
+*****************************************************
+this is post build!! current configure is :8258_mesh
+copy from `firmware.elf' [elf32-littletc32] to `8258_mesh.bin' [binary]
+Runing EXE, par count is: 5
+output done!
+exec successful
+**************** end of post build ******************
+ 
+Invoking: TC32 Create Extended Listing
+Invoking: Print Size
+tc32-elf-objdump -x -D -l -S firmware.elf  >"8258_mesh.lst"
+tc32-elf-size -t firmware.elf
+   text	   data	    bss	    dec	    hex	filename
+ 128668	    824	  19336	 148828	  2455c	firmware.elf
+ 128668	    824	  19336	 148828	  2455c	(TOTALS)
+Finished building: sizedummy
+ 
+Finished building: 8258_mesh.lst
+ 

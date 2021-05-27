@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622102600628
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622102615201
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622102622303
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622102622846
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622102623440
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622102623730
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622102624525
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622102625053
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622102643308
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622102653144
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622102666666
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622102720405
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622102737087
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622102741458
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622102827864
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622102830893
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622102839294
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622102859890
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622102883208
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622102913928
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103016517
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103120013
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103144481
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103144496
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103144599
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103149618
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103208223
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103220030
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103221197
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103227880
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103234264
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103240602
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103265540
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103270334
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103271999
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103287081
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103303765
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103309579
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103338394
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622103339542
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622103340954
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103347225
+error,log,,,"Unable to get CElement for Macro",1622103352440
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103352568
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103358279
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622103360814
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622103362792
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622103365970
+error,log,,,"Unable to get CElement for Macro",1622103371590
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103371764
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103373394
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103377146
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103377811
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622103492804
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622103494986
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622103496263
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622103497037
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622103501448
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622103506635
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622103507772
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103514942
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622103517883
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622103519870
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622103523832
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103526108
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103561348
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103562523
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103570370
+error,log,,,"Unable to get CElement for Macro",1622103576416
+error,log,,,"Unable to get CElement for Macro",1622103576417
+error,log,,,"Unable to get CElement for Macro",1622103576418
+error,log,,,"Unable to get CElement for Macro",1622103576418
+error,log,,,"Unable to get CElement for Macro",1622103576419
+error,log,,,"Unable to get CElement for Macro",1622103576421
+error,log,,,"Unable to get CElement for Macro",1622103576421
+error,log,,,"Unable to get CElement for Macro",1622103576422
+error,log,,,"Unable to get CElement for Macro",1622103576423
+error,log,,,"Unable to get CElement for Macro",1622103576424
+error,log,,,"Unable to get CElement for Macro",1622103576425
+error,log,,,"Unable to get CElement for Macro",1622103576426
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103576546
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103581652
+error,log,,,"Unable to get CElement for Macro",1622103593091
+error,log,,,"Unable to get CElement for Macro",1622103593092
+error,log,,,"Unable to get CElement for Macro",1622103593093
+error,log,,,"Unable to get CElement for Macro",1622103593094
+error,log,,,"Unable to get CElement for Macro",1622103593095
+error,log,,,"Unable to get CElement for Macro",1622103593096
+error,log,,,"Unable to get CElement for Macro",1622103593097
+error,log,,,"Unable to get CElement for Macro",1622103593097
+error,log,,,"Unable to get CElement for Macro",1622103593098
+error,log,,,"Unable to get CElement for Macro",1622103593099
+error,log,,,"Unable to get CElement for Macro",1622103593100
+error,log,,,"Unable to get CElement for Macro",1622103593101
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103593235
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103595889
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103620837
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103640712
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103642966
+error,log,,,"Unable to get CElement for Macro",1622103646030
+error,log,,,"Unable to get CElement for Macro",1622103646031
+error,log,,,"Unable to get CElement for Macro",1622103646032
+error,log,,,"Unable to get CElement for Macro",1622103646034
+error,log,,,"Unable to get CElement for Macro",1622103646035
+error,log,,,"Unable to get CElement for Macro",1622103646036
+error,log,,,"Unable to get CElement for Macro",1622103646037
+error,log,,,"Unable to get CElement for Macro",1622103646037
+error,log,,,"Unable to get CElement for Macro",1622103646038
+error,log,,,"Unable to get CElement for Macro",1622103646039
+error,log,,,"Unable to get CElement for Macro",1622103646040
+error,log,,,"Unable to get CElement for Macro",1622103646041
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103646162
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103648813
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103655106
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103661880
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103681129
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622103683302
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622103685244
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103712931
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103763487
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103774363
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622103775133
+error,log,,,"Unable to get CElement for Macro",1622103784178
+error,log,,,"Unable to get CElement for Macro",1622103784179
+error,log,,,"Unable to get CElement for Macro",1622103784180
+error,log,,,"Unable to get CElement for Macro",1622103784181
+error,log,,,"Unable to get CElement for Macro",1622103784183
+error,log,,,"Unable to get CElement for Macro",1622103784184
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103784371
+error,log,,,"Unable to get CElement for Macro",1622103821299
+error,log,,,"Unable to get CElement for Macro",1622103821300
+error,log,,,"Unable to get CElement for Macro",1622103821300
+error,log,,,"Unable to get CElement for Macro",1622103821301
+error,log,,,"Unable to get CElement for Macro",1622103821302
+error,log,,,"Unable to get CElement for Macro",1622103821303
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103821428
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103847261
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103856827
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103861345
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103872069
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103872714
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103873094
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103873422
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103873688
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103874029
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103874608
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103875305
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103875759
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103876317
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103876997
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103877458
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103877934
+error,log,,,"Unable to get CElement for Macro",1622103909836
+error,log,,,"Unable to get CElement for Macro",1622103909837
+error,log,,,"Unable to get CElement for Macro",1622103909837
+error,log,,,"Unable to get CElement for Macro",1622103909838
+error,log,,,"Unable to get CElement for Macro",1622103909839
+error,log,,,"Unable to get CElement for Macro",1622103909840
+error,log,,,"Unable to get CElement for Macro",1622103909841
+error,log,,,"Unable to get CElement for Macro",1622103909842
+error,log,,,"Unable to get CElement for Macro",1622103909843
+error,log,,,"Unable to get CElement for Macro",1622103909843
+error,log,,,"Unable to get CElement for Macro",1622103909844
+error,log,,,"Unable to get CElement for Macro",1622103909845
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103909969
+error,log,,,"Unable to get CElement for Macro",1622103928858
+error,log,,,"Unable to get CElement for Macro",1622103928859
+error,log,,,"Unable to get CElement for Macro",1622103928859
+error,log,,,"Unable to get CElement for Macro",1622103928860
+error,log,,,"Unable to get CElement for Macro",1622103928861
+error,log,,,"Unable to get CElement for Macro",1622103928862
+error,log,,,"Unable to get CElement for Macro",1622103928863
+error,log,,,"Unable to get CElement for Macro",1622103928865
+error,log,,,"Unable to get CElement for Macro",1622103928866
+error,log,,,"Unable to get CElement for Macro",1622103928866
+error,log,,,"Unable to get CElement for Macro",1622103928867
+error,log,,,"Unable to get CElement for Macro",1622103928868
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622103928995
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103937674
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1622103951828
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103956691
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103959947
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103964773
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103968537
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622103972400
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622103974474
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622103974935
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104000355
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104005386
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104019521
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104023597
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104024517
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104025488
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104043083
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104056671
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104058899
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104063231
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104065337
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104066708
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104069347
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104079037
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104094908
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104181822
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104185971
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104197655
+error,log,,,"Unable to get CElement for Macro",1622104203529
+error,log,,,"Unable to get CElement for Macro",1622104203531
+error,log,,,"Unable to get CElement for Macro",1622104203532
+error,log,,,"Unable to get CElement for Macro",1622104203533
+error,log,,,"Unable to get CElement for Macro",1622104203534
+error,log,,,"Unable to get CElement for Macro",1622104203535
+error,log,,,"Unable to get CElement for Macro",1622104203536
+error,log,,,"Unable to get CElement for Macro",1622104203536
+error,log,,,"Unable to get CElement for Macro",1622104203537
+error,log,,,"Unable to get CElement for Macro",1622104203538
+error,log,,,"Unable to get CElement for Macro",1622104203539
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104203666
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104208801
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104212067
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622104220190
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622104228100
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.shiftLeft",1622104232058
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104235215
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104259674
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622104295113
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622104296864
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104297108
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104308384
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622104325427
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622104327458
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104334185
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104356447
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622104376681
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104424345
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622104426012
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622104434350
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104435137
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104466124
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104467406
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622104480694
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104483661
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104486435
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104496352
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104501045
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104505825
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622104511042
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622104513484
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104513746
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104515652
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104709106
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104712822
+error,log,,,"Unable to get CElement for Macro",1622104716570
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104716705
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104723180
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104725319
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104812975
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1622104816822
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104824136
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104826013
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104888208
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622104890304
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104891664
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104903393
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104904419
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104920134
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104925030
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104941494
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104943034
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1622104976238
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622104976389
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622104984971
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622104985560
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622104986325
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622104991273
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622104995508
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622104995673
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622104998658
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622104998906
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622105030830
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1622105034013
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1622105035635
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.shiftLeft",1622105041890
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1622105042446
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622105056641
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622105056915
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622105062298
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622105062846
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622105062971
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622105068914
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622105069148
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622105071426
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622105071676
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622105078950
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622105079208
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622105082662
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622105082891
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622105083841
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622105084107
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1622105085589
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1622105085864

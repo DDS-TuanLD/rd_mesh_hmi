@@ -12,7 +12,7 @@ void user_fifo_init(){
 
 u8 user_fifo_pop(){
     if(user_fifo.num_bytes_written == 0){
-        return 0x00;
+        return 0xff;
     }
     u8 temp = user_fifo.dt[user_fifo.r];
     user_fifo.r = user_fifo.r + 1;

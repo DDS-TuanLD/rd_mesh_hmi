@@ -1,15 +1,19 @@
 #ifndef __APP_SERIAL_H__
 #define __APP_SERIAL_H__
 #include "proj/common/types.h"
-#define UART_HEADER_DATA_0  0xaa
-#define UART_HEADER_DATA_1  0xaa
+//#define UART_HEADER_DATA_0  0xaa
+//#define UART_HEADER_DATA_1  0xaa
 #define UART_HMI_TO_MODULE	0xfa
 #define UART_MODULE_TO_HMI  0xf5
+
+#define UART_HEADER_DATA_0  0x55
+#define UART_HEADER_DATA_1  0xaa
+
 #define UART_TYPE_CMD       0x01
 #define UART_TYPE_RES		0x00
 
 #define UART_MAX_LEN		30
-#define UART_MIN_LEN 		8
+#define UART_MIN_LEN 		7
 
 #define LCD_CALL_SCENE_CMD	0x2000
 #define LCD_UPDATE_SENSOR_DATA_CMD	0x2010
@@ -26,6 +30,7 @@ typedef struct {
 }uart_mess_t;
 
 extern uart_mess_t uart_last_mess_sent;
+extern uart_mess_t uart_res_need;
 
 extern int rx_from_uart_cb(void);
 extern u8 is_uart_mess_response_waiting();

@@ -386,7 +386,16 @@ void test_simu_io_user_define_proc()
     }
 }
 #endif
-
+void test(){
+	static u32 check_time;
+	if(clock_time_exceed(check_time, 20*1000*1000)){
+		check_time = clock_time();
+		u8 t[2] = {0x03, 0x05};
+		u8 h[2] = {0x03, 0x07};
+		module_update_sensor_para_hmi(t, h);
+		module_update_time_hmi(0x10, 0x20);
+	}
+}
 void main_loop ()
 {
 	static u32 tick_loop;
@@ -446,8 +455,9 @@ void main_loop ()
 		mesh_loop_process();
 	}
 	#else
-	load_btn_scene_data_from_flash();
-	user_fifo_handler();
+	test();
+	//load_btn_scene_data_from_flash();
+	//user_fifo_handler();
 	check_and_resend_mess();
 	mesh_loop_process();
 	#endif
